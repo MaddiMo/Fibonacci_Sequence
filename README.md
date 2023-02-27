@@ -8,10 +8,10 @@ A series of numbers in which each number (Fibonacci number) is the sum of the tw
 
 It can be a sequence that goes to infinity:
 
-    1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ....
+        1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
 
 <p align="center">
-      <img src="https://user-images.githubusercontent.com/114074329/221658372-3bb72dfc-0483-45f8-9c7d-d6f78fc96205.png" width="250 height="500" />
+      <img src="https://user-images.githubusercontent.com/114074329/221690173-e61a55b7-9bca-4eb6-8d1a-2e87c783f6c2.png"/>
 </p>
 
 ### A bit of history
